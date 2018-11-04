@@ -1,0 +1,1 @@
+这是一个用于快速搭建SSM的项目，只需要更改application.properties里的参数即可
